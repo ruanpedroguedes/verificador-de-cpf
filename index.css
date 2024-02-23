@@ -1,0 +1,64 @@
+body{
+    background-color: #6359f6;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    padding: 70px;
+}
+main{
+    padding: 70px;
+}
+img{
+    margin: auto;
+}
+button {
+    appearance: button;
+    background-color: #ff234bb8;
+    border: solid transparent;
+    border-radius: 8px;
+    border-width: 0 0 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    line-height: 20px;
+    margin: 0;
+    outline: none;
+    overflow: visible;
+    padding: 13px 19px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+input {
+    padding: 3.5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+    width: 240px;
+    height: 30px;
+}
+input:focus {
+    border-color: #007bff;
+}
+main{
+    width: 550px;
+    height: 600px;
+    margin: 0 auto; /* Isso centralizará horizontalmente o elemento */
+    text-align: center; /* Isso centralizará o conteúdo dentro do elemento */
+    background-color: #f8f8f8b1; /* Isso define o fundo como branco */
+    padding: 10px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
